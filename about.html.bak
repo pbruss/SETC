@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>About | SETC</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">South End Technology Center</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="about.html" class="active">About</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">About SETC</h1>
+							<span class="image fit"><img src="images/pic07.jpg" alt="" /></span>
+							<p>The South End Technology Center  (SETC) AKA  “The Tech Center” Opened it’s doors in Spring 1997, to provide access to those residing in technology ‘deserts’ and make it possible for them to compete with their counterparts in technology rich areas. We enable people from underserved communities to become producers of media and online content, creators and innovators of technology and computer based applications and systems that enhance and maximize the process of production. We provide classes and workshops in web design, coding, networking, computer aided manufacturing and fabrication tools as well robotics, cnc machines, automation, smartphone applications. We recently added classes in coding for artificial intelligence applications and devices. In addition to technological education and training is the incubation of innovative entrepreneurial endeavors.</p>
+							<p>Our scope and methods are as diverse as the people we serve.  We provide free or low-cost access and training in many aspects of computer-related technology.  The Tech Center is supported by staff many whom are volunteers and interns, come with extensive backgrounds in computer technology and their applications. We are also a member of the Timothy Smith Network which also provides access to hardware and software. Our funding sources vary from local governments, private corporations, foundations and general donations from our constituents and supporters. </p>
+							<p>Our intention is to provide paths for our community to be contributors and producers of goods and services. Through the acquisition of knowledge and skills in Science Technology Engineering Art and Mathematics (STEAM). The fostering of creativity and innovation through collaboration, and the sharing of ideas.</p>
+							<p>Summary of Goals at SETC:</p>
+							<p>1) Recruit and train persons in computer technology who have been excluded from the technological revolution and are at an increased risk of joblessness.</p>
+							<p>2) Encourage community residents to use information technology as a means of personal and professional development.</p>
+							<p>3) Help residents move from being consumers of information to producers and creators of knowledge.</p>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Copyright SETC. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
